@@ -33,5 +33,3 @@ A lo largo de este repositorio se evidencia el flujo de trabajo integral del cic
 
 ## 📂 Estructura del Repositorio
 * `notebooks/`: Contiene los archivos de Google Colab/Jupyter con el código en Python para el proceso ETL y EDA.
-* `data/`: Datasets originales y procesados (si el tamaño lo permite).
-* `dashboards/`: Archivos `.pbix` de Power BI y capturas de pantalla de los tableros finales.
